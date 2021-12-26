@@ -1,5 +1,6 @@
 #Password Generator Project
 import random
+import os
 
 # creates the lists "letters," "numbers," and "symbols"
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
@@ -26,6 +27,7 @@ for char in range(1, nr_numbers + 1):
   password += random.choice(numbers)
 
 print(f"Your standard generated password is: {password})
+os.system('pause')
 
 # Order randomized
 
@@ -55,3 +57,4 @@ for char in password_list:
 
 # prints the completed password string
 print(f"Your password is: {password}")
+os.system('pause')
