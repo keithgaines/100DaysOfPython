@@ -1,3 +1,5 @@
+import os
+
 print('''
 *******************************************************************************
           |                   |                  |                     |
@@ -36,11 +38,16 @@ if which_way == "left":
         
         if which_door == "yellow":
             print("Congratulations. You found the treasure.")
+            os.system('pause')
         elif which_door == "red":
             print("Upon turning the knob, the door erupts into flames. You are toast.")
+            os.system('pause')
         else:
             print("Opening the door triggers a lone record player in the room. Eiffel 65's hit song 'I'm Blue' begins to play. It immediately gets stuck in your head forever. Madness is imminent. Game over.")
+            os.system('pause')
     else: 
         print("The river is full of electric eels that attack as soon as you step foot in the water. Game over.")
+        os.system('pause')
 else: 
     print("You continue walking a lonely road. Realizing you've gone the wrong way, you turn around to find nothing but straight road. There is no going back. Game over.")
+    os.system('pause')
