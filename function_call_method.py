@@ -1,6 +1,7 @@
 # Password Generator Project
 import random
 import string
+import os
 
 print("Welcome to the PyPassword Generator!")
 nr_letters= int(input("How many letters would you like in your password?\n")) 
@@ -23,6 +24,7 @@ numbers = ''.join(random.choices(string.digits, k = nr_numbers))
 password = letters + symbols + numbers
 
 print(f"Your standard generated password is: {password}")
+os.system('pause')
 
 #Order of characters randomised:
 
@@ -34,6 +36,7 @@ random.shuffle(str_var)
 
 # joins string_var together as a string and prints the value 
 print(''.join(str_var))
+os.system('pause')
 
 
 
