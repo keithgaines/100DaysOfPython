@@ -1,5 +1,6 @@
 import random
 from hangman_words import word_list
+import os 
 
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
@@ -36,8 +37,10 @@ while not end_of_game:
         lives -= 1
         if lives == 0:
             end_of_game = True
-            print("You lose.")
             print(f"The word was {chosen_word}")
+            print("You lose.")
+            os.system('pause')
+            
 
     # joins all the elements in the list and turn it into a string
     print(f"{' '.join(display)}")
@@ -45,7 +48,10 @@ while not end_of_game:
     # checks if user has got all letters.
     if "_" not in display:
         end_of_game = True
+        print(f"The word was {chosen_word}")
         print("You win.")
+        os.system('pause')
+        
 
     # imports stages ASCII art from hangman_art file and prints them based on how many lives are left
     from hangman_art import stages
