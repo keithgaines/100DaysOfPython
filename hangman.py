@@ -1,6 +1,6 @@
 import random
 from hangman_words import word_list
-import os 
+import os
 
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
