@@ -20,6 +20,7 @@ def deal_card():
     card = random.choice(cards)
     return card
 
+# compares user and computer score then displays results of the game
 def compare(user_score, computer_score):
     if user_score > 21 and computer_score > 21 or user_score == computer_score:
         return "It's a draw"
@@ -39,7 +40,7 @@ def calculate_score(cards):
     """Take a list of cards and return the score calculated from the cards"""
     if sum(cards) == 21 and len(cards) == 2:
         return 0
-
+    # if ace value of 11 is detected, and score is currently over 21, this removes the 11 value and replaces it with a 1
     if 11 in cards and sum(cards) > 21:
         cards.remove(11)
         cards.append(1)
@@ -47,8 +48,8 @@ def calculate_score(cards):
 
 def play_game():
     print(logo)
-    user_cards = []
-    computer_cards = []
+    user_cards = [] # creates empty list called user cards
+    computer_cards = [] # creates empty list called computer cards
     game_over = False
 
     # loops through twice and adds the returned value of deal_card() to the end of the user_cards and computer_cards list
@@ -61,6 +62,7 @@ def play_game():
         computer_score = sum(computer_cards)
         print(f"Your cards: {user_cards}, current score: {user_score}")
         print(f"Computer's first card: {computer_cards[0]}")
+        # sets game over if user or computer has blackjack, or if the computer busts
         if (user_score == 0) or (computer_score == 0) or (user_score > 21):
             is_game_over = True
         else: 
@@ -74,12 +76,10 @@ def play_game():
                 print(compare(user_score, computer_score))
                 os.system('pause')
 
-                
-
     # computer will continue to draw cards as long as the value of computer_cards is below 17
     while computer_score != 0 and computer_score < 17:
         computer_cards.append(deal_card)
         computer_score = calculate_score(computer_cards)
     
 if input("Do you want to play a game of Blackjack? Type 'y' or 'n': ") == "y":
-  play_game()
+    play_game()
