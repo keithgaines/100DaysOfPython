@@ -64,7 +64,7 @@ def play_game():
         print(f"Computer's first card: {computer_cards[0]}")
         # sets game over if user or computer has blackjack, or if the computer busts
         if (user_score == 0) or (computer_score == 0) or (user_score > 21):
-            is_game_over = True
+            game_over = True
         else: 
             draw_again = input("Do you want another card? Type 'y' for yes, or 'n' for no. ")
             if draw_again == "y":
