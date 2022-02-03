@@ -1,6 +1,7 @@
 from game_data import data
 import random
 from art import logo, vs
+import os
 
 def get_random_account():
   """selects random account from data in game_data"""
@@ -46,6 +47,8 @@ def game():
 
     # checks answer and assigns the returned True or False value to the variable is_correct
     is_correct = check_answer(guess, a_follower_count, b_follower_count)
+
+    os.system('cls') 
 
     print(logo)
     if is_correct: # if is_correct is true
