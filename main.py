@@ -48,6 +48,7 @@ def game():
     # checks answer and assigns the returned True or False value to the variable is_correct
     is_correct = check_answer(guess, a_follower_count, b_follower_count)
 
+    # clears screen
     os.system('cls') 
 
     print(logo)
