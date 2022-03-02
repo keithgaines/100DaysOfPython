@@ -7,6 +7,7 @@ screen.setup(width=900, height=900, startx=0, starty=0)
 # turtles basic settings
 turtle.colormode(255)
 jim = turtle.Turtle()  # initializes the turtle named Jim
+jim.width(25) 
 
 
 def move_forward():
@@ -22,14 +23,10 @@ def move_backwards():
 
 
 def turn_left():
-    jim.pendown()
-    jim.pencolor("black")
     jim.left(45)
 
 
 def turn_right():
-    jim.pendown()
-    jim.pencolor("black")
     jim.right(45)
 
 
