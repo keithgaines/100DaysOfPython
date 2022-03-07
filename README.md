@@ -1,2 +1,2 @@
 # coffee_machine_OOP
-Object Oriented Programming version of the Coffee Machine project
+Coffee Machine project using an object oriented programming approach
