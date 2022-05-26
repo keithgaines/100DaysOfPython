@@ -49,10 +49,10 @@ for dot_count in range(1, number_of_dots + 1):
     jim.forward(50)
     # moves turtle to the next row if dot count 10, 20, 30, etc.
     if dot_count % 10 == 0:
-        jim.setheading(90) # points turtle north/up
+        jim.setheading(90)  # points turtle north/up
         jim.forward(50)
-        jim.setheading(180) # points turtle left
+        jim.setheading(180)  # points turtle left
         jim.forward(500)
-        jim.setheading(0) # points turtle right
+        jim.setheading(0)  # points turtle right
 
 screen.exitonclick()

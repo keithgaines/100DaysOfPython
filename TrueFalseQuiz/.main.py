@@ -1,6 +1,5 @@
-from operator import truediv
-from question_model import Question
 from data import question_data
+from question_model import Question
 from quiz_brain import QuizBrain
 
 question_bank = []
@@ -20,12 +19,3 @@ quiz.still_has_questions = True
 
 while quiz.still_has_questions == True:
     quiz.next_question()
-
-
-
-
-
-
-
-
-

@@ -1,5 +1,5 @@
-import random 
 import os
+import random
 
 rock = '''
 rock
@@ -39,7 +39,7 @@ if player_choice == "0":
     player_choice = choices[0]
 elif player_choice == "1":
     player_choice = choices[1]
-else: 
+else:
     player_choice = choices[2]
 
 computer_choice = random.choice(choices)
@@ -50,21 +50,21 @@ print(f"computer chose:", computer_choice)
 if player_choice == computer_choice:
     print("It's a draw!")
     os.system('pause')
-elif player_choice == [0] and computer_choice == [1]: 
-    print("You lose") 
+elif player_choice == [0] and computer_choice == [1]:
+    print("You lose")
     os.system('pause')
 elif player_choice == [0] and computer_choice == [2]:
     print("You win")
     os.system('pause')
-elif player_choice == [1] and computer_choice == [0]: 
-    print("You win") 
+elif player_choice == [1] and computer_choice == [0]:
+    print("You win")
     os.system('pause')
 elif player_choice == [1] and computer_choice == [2]:
     print("You lose")
     os.system('pause')
-elif player_choice == [2] and computer_choice == [0]: 
-    print("You lose") 
+elif player_choice == [2] and computer_choice == [0]:
+    print("You lose")
     os.system('pause')
-else: 
+else:
     print("You win")
     os.system('pause')

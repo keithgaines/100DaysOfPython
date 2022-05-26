@@ -9,8 +9,8 @@ chosen_number = int(random.choice(range(1, 100)))
 
 # if statement that assigns number of attempts based on difficulty
 if difficulty == "easy":
-    attempts = 10 
-else: 
+    attempts = 10
+else:
     attempts = 5
 
 print(f"You have {attempts} attempts remaining to guess the number.")
@@ -22,11 +22,11 @@ while attempts > 0:
     if guess > chosen_number:
         guess = int(input("Too high. Guess again: "))
         attempts -= 1
-        
+
     if guess < chosen_number:
         guess = int(input("Too low. Guess again: "))
         attempts -= 1
-    
+
     if guess == chosen_number:
         print("You guessed it")
         attempts = 0

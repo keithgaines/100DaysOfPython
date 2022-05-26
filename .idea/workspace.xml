@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89acea96-b7d8-4898-939c-80d0587e492d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Blackjack/.art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blackjack/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaesarCipher/.art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CaesarCipher/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CaesarCipher/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/.art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMaker/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeeMaker/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMaker/.menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeeMaker/.menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMaker/.money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeeMaker/.money_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoffeeMaker/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/CoffeeMaker/coffee_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompareCSV/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CompareCSV/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Etch-A-Sketch/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Etch-A-Sketch/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/.hangman_art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/.hangman_words.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hangman/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HigherLower/.art.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HigherLower/.game_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HigherLower/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HigherLower/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HirstPaintingProject/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HirstPaintingProject/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberGuessingGame/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/NumberGuessingGame/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordGenerator/.for_loop_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordGenerator/.for_loop_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordGenerator/.function_call_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordGenerator/.function_call_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pong/.ball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pong/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pong/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pong/.paddle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pong/.scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RockPaperScissors/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/RockPaperScissors/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SilentAuction/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/SilentAuction/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snake/.data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snake/.food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snake/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Snake/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snake/.scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Snake/.snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreasureIsland/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TreasureIsland/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrueFalseQuiz/.data.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrueFalseQuiz/.data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrueFalseQuiz/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrueFalseQuiz/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrueFalseQuiz/.question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrueFalseQuiz/.question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrueFalseQuiz/.quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/TrueFalseQuiz/.quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurtleCrossing/.car_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurtleCrossing/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TurtleCrossing/.main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurtleCrossing/.player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurtleCrossing/.scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TurtleRacing/.main.py" beforeDir="false" afterPath="$PROJECT_DIR$/TurtleRacing/.main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29OMADceluY1nusMrHULONlpR7b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Blackjack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gaineke\Repos\100DaysOfPython\Blackjack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python..main (1)">
+    <configuration name=".main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CaesarCipher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CaesarCipher/.main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name=".main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Blackjack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blackjack/.main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python..main (1)" />
+        <item itemvalue="Python..main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89acea96-b7d8-4898-939c-80d0587e492d" name="Changes" comment="" />
+      <created>1652979533158</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652979533158</updated>
+    </task>
+    <servers />
+  </component>
+</project>

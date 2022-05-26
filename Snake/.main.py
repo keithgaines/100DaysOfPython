@@ -1,8 +1,9 @@
-from turtle import Screen
 import time
-from snake import Snake
+from turtle import Screen
+
 from food import Food
 from scoreboard import Scoreboard
+from snake import Snake
 
 screen = Screen()
 screen.setup(width=600, height=600)
@@ -13,7 +14,6 @@ screen.tracer(0)
 snake = Snake()
 food = Food()
 scoreboard = Scoreboard()
-
 
 screen.listen()
 screen.onkey(snake.up, "Up")
@@ -45,6 +45,5 @@ while game_is_on:
             game_is_on = False
             snake.reset()
             scoreboard.reset()
-
 
 screen.exitonclick()

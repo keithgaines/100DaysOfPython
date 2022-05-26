@@ -7,7 +7,7 @@ screen.setup(width=900, height=900, startx=0, starty=0)
 # turtles basic settings
 turtle.colormode(255)
 jim = turtle.Turtle()  # initializes the turtle named Jim
-jim.width(25) 
+jim.width(25)
 
 
 def move_forward():
@@ -34,7 +34,7 @@ def clear_screen():
     jim.clear()
 
 
-screen.listen() # starts the screen listening for events
+screen.listen()  # starts the screen listening for events
 
 # sets onkey press event listener to call functions based on which key is pressed
 screen.onkey(key="w", fun=move_forward)

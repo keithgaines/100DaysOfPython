@@ -1,5 +1,5 @@
-from turtle import Turtle, Screen
 import random
+from turtle import Turtle, Screen
 
 is_race_on = False
 screen = Screen()
