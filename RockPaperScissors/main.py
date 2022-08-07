@@ -40,10 +40,17 @@ def game():
             player_choice = choices[0]
         elif player_choice == "1":
             player_choice = choices[1]
-        else:
+        elif player_choice == "2":
             player_choice = choices[2]
 
         computer_choice = random.choice(choices)
+
+        if computer_choice == choices[0]:
+            computer_choice == rock
+        elif computer_choice == choices[1]:
+            computer_choice == paper
+        elif computer_choice == choices[2]:
+            computer_choice == scissors
 
         print(f"you chose:", player_choice)
         print(f"computer chose:", computer_choice)
@@ -51,23 +58,24 @@ def game():
         if player_choice == computer_choice:
             print("It's a draw!")
             
-        elif player_choice == [0] and computer_choice == [1]:
+        elif player_choice == rock and computer_choice == paper:
             print("You lose")
             
-        elif player_choice == [0] and computer_choice == [2]:
+        elif player_choice == rock and computer_choice == scissors:
             print("You win")
             
-        elif player_choice == [1] and computer_choice == [0]:
+        elif player_choice == paper and computer_choice == rock:
             print("You win")
             
-        elif player_choice == [1] and computer_choice == [2]:
+        elif player_choice == paper and computer_choice == scissors:
             print("You lose")
             
-        elif player_choice == [2] and computer_choice == [0]:
+        elif player_choice == scissors and computer_choice == rock:
             print("You lose")
-            
-        else:
+
+        elif player_choice == scissors and computer_choice == paper:
             print("You win")
+
         play_again = input("Do you want to play again? y or n: ")
         
         if play_again == 'y':
