@@ -16,7 +16,7 @@ Day 6: <a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%
 
 Day 7: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Hangman">Hangman</a>
 
-Day 8: <a hef="https://github.com/keithgaines/100DaysOfPython/tree/main/CaesarCipher">Caesar Cipher</a>
+Day 8: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/CaesarCipher">Caesar Cipher</a>
 
 Day 9: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/SilentAuction">Silent Auction</a>
 
