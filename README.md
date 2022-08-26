@@ -12,4 +12,4 @@ Day 4: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/RockPap
 
 Day 5: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/PasswordGenerator">Password Generator</a>
 
-Day 6: <a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json">Reeborg's World Maze Challenge<a> <p>This was a challenge to complete and not a portfolio addition.</p>
+Day 6: <a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json">Reeborg's World Maze Challenge<a> This was a challenge to complete and not a portfolio addition.
