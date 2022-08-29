@@ -25,3 +25,15 @@ Day 10: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Calcul
 Day 11: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Blackjack">Blackjack</a>
 
 Day 12: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/NumberGuessingGame">Number Guessing Game</a>
+
+Day 13: Debugging challenges
+
+Day 14: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/HigherLower">Higher Lower game</a>
+
+Day 15: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/CoffeeMaker">Coffee Machine</a>
+
+Day 16: Reworking Day 15's Coffee Machine from procedural programming to object oriented programming
+
+Day 17: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/TrueFalseQuiz">True False Quiz</a>
+
+Day 18: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/HirstPaintingProject">Hirst Painting Project</a>
