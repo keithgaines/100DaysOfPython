@@ -37,3 +37,19 @@ Day 16: Reworking Day 15's Coffee Machine from procedural programming to object 
 Day 17: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/TrueFalseQuiz">True False Quiz</a>
 
 Day 18: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/HirstPaintingProject">Hirst Painting Project</a>
+
+Day 19: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/TurtleRacing">Turtle Racing game</a>
+
+Day 20 and 21: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Snake">Snake</a>
+
+Day 22: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Pong>Pong">Pong</a>
+
+Day 23: <a href=https://github.com/keithgaines/100DaysOfPython/tree/main/TurtleCrossing>Turtle Crossing capstone project<a>
+
+Day 24: Mail Merge Project
+
+Day 25: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/U.S.%20States%20Game">U.S. States game</a>
+
+Day 26: <a hhref="https://github.com/keithgaines/100DaysOfPython/tree/main/NATO%20Phonetic%20Alphabet">NATO Phonetic Alphabet Converter</a>
+
+Day 27: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/MtoKmConverter">Miles to Kilometer Converter</a>
