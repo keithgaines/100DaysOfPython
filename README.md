@@ -50,6 +50,6 @@ Day 24: Mail Merge Project
 
 Day 25: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/U.S.%20States%20Game">U.S. States game</a>
 
-Day 26: <a hhref="https://github.com/keithgaines/100DaysOfPython/tree/main/NATO%20Phonetic%20Alphabet">NATO Phonetic Alphabet Converter</a>
+Day 26: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/NATO%20Phonetic%20Alphabet">NATO Phonetic Alphabet Converter</a>
 
 Day 27: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/MtoKmConverter">Miles to Kilometer Converter</a>
