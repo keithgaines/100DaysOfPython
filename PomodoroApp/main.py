@@ -22,3 +22,5 @@ window = Tk()
 window.title("Pomodoro")
 
 window.mainloop()
+
+# testing functionality 
