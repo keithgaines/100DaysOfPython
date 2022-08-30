@@ -31,20 +31,20 @@ canvas.grid(row=1, column=1)
 
 # Label 
 title = tk.Label()
-title.config(text="Timer", font=("Times New Roman", 25, "bold"), bg=YELLOW, fg=GREEN)
+title.config(text="Timer", font=(FONT_NAME, 50), bg=YELLOW, fg=GREEN)
 title.grid(row=0, column=1)
 
 
 # Buttons
-start = tk.Button(text="Start", bg="white", borderwidth=0)
+start = tk.Button(text="Start", bg="white", highlightthickness=0)
 start.grid(row=2, column=0)
 
-reset = tk.Button(text="Reset", bg="white", borderwidth=0)
+reset = tk.Button(text="Reset", bg="white", highlightthickness=0)
 reset.grid(row=2, column=2)
 
 # checkmarks
 checkmark = tk.Label()
-checkmark.config(text="✔", bg=YELLOW, fg=GREEN, font=("Times New Roman", 25, "bold"))
+checkmark.config(text="✔", bg=YELLOW, fg=GREEN, font=(FONT_NAME, 25, "bold"))
 checkmark.config(pady=20)
 checkmark.grid(row=3, column=1)
 
