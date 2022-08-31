@@ -1,10 +1,20 @@
-import email
 import tkinter as tk
-from turtle import width
+
 
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
+
+def save():
+    website = website_input.get()
+    email = email_input.get()
+    pw = pw_input.get()
+
+    with open("data.txt", "a") as data_file:
+        data_file.write(f"{website} | {email} | {pw}\n")
+        website_input.delete(0, tk.END)
+        pw_input.delete(0, tk.END)
+
 
 # ---------------------------- UI SETUP ------------------------------- #
 
@@ -32,9 +42,11 @@ pw_label.grid(row=3, column=0)
 
 website_input = tk.Entry(width=35)
 website_input.grid(row=1, column=1, columnspan=2, sticky=tk.W)
+website_input.focus()
 
 email_input = tk.Entry(width=35)
 email_input.grid(row=2, column=1, columnspan=2, sticky=tk.W)
+email_input.insert(0, "<youremail@example.com>")
 
 pw_input = tk.Entry()
 pw_input.grid(row=3, column=1, sticky=tk.W)
@@ -44,7 +56,7 @@ pw_input.grid(row=3, column=1, sticky=tk.W)
 generate_button = tk.Button(text="Generate Password", bg="white")
 generate_button.grid(row=3, column=2, columnspan=2)
 
-add_button = tk.Button(text="Add", width=35, bg="white")
+add_button = tk.Button(text="Add", width=35, bg="white", command=save())
 add_button.grid(row=4, column=1, columnspan=2)
 
 window.mainloop()
