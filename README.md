@@ -57,3 +57,9 @@ Day 27: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/MtoKmC
 Day 28: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/PomodoroApp">Pomodoro Timer App</a>
 
 Day 29: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/PasswordManager">Password Manager</a>
+
+
+<br>
+Days 80 - 100 are projects built without the assistance of the instructor's tutorials or solution videos. You're given a concept and you build it yourself from scratch. Source code will be linked via my GitHub. Replit links will take you to my replit where you can run the code to test functionality within the browser. 
+
+Day 80: Morse Code Converter <a href="https://replit.com/@keithgaines/morseCodeConverter#main.py">Replit</a> <a href="https://github.com/keithgaines/morseCodeConverterGUI">Github</a>
