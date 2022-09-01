@@ -60,6 +60,6 @@ Day 29: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Passwo
 
 
 <br>
-Days 80 - 100 are projects built without the assistance of the instructor's tutorials or solution videos. You're given a concept and you build it yourself from scratch. Source code will be linked via my GitHub. Replit links will take you to my replit where you can run the code to test functionality within the browser. 
-
-Day 80: Morse Code Converter <a href="https://replit.com/@keithgaines/morseCodeConverter#main.py">Replit</a> <a href="https://github.com/keithgaines/morseCodeConverterGUI">Github</a>
+Days 80 - 100 are projects built without the assistance of the instructor's tutorials or solution videos. You're given a concept and you build it yourself from scratch. For simplicity sake, since source code can also be viewed via Replit in addition to being able to run the code from within the browser, I will be linking these from my replit account rather than having it linked to both my replit and github accounts. 
+<br>
+Day 80: <a href="https://replit.com/@keithgaines/morseCodeConverter#main.py">Morse Code Converter</a>
