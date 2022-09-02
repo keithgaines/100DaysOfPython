@@ -1,0 +1,14 @@
+{
+    "test1": {
+        "email": "<youremail@example.com>",
+        "password": "password"
+    },
+    "abc123": {
+        "email": "<youremail@example.com>",
+        "password": "testing"
+    },
+    "abcdefg": {
+        "email": "<youremail@example.com>",
+        "password": "loremipsum"
+    }
+}
