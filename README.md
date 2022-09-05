@@ -65,4 +65,4 @@ Days 80 - 100 are projects built without the assistance of the instructor's tuto
 <br>
 Day 81: <a href="https://replit.com/@keithgaines/morseCodeConverter#main.py">Morse Code Converter</a>
   
-Day 82: <a href="https://keithgaines.github.io/">My Portfolio Site</a>
+Day 82: <a href="https://keithgaines.github.io/">My Portfolio Site</a>. This link will take you to my portfolio site hosted on Github Pages.
