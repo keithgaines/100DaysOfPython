@@ -68,6 +68,7 @@ def count_down(count):
 window = tk.Tk()
 window.title("Pomodoro")
 window.config(padx=100, pady=50, bg=YELLOW)
+window.wm_attributes("-topmost", 1)
 
 # Image and timer 
 canvas = tk.Canvas(width=200, height=224, bg=YELLOW, highlightthickness=0)
