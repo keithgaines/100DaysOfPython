@@ -22,6 +22,10 @@ class QuizInterface:
         self.check = tk.Button(image=check_image)
         self.check.grid(row=2, column=0)
 
+        false_image = tk.PhotoImage(file="images/false.png")
+        self.false = tk.Button(image=false_image)
+        self.false.grid(row=2, column=1)
+
 
 
 
