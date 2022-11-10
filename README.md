@@ -12,7 +12,7 @@ Day 4: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/RockPap
 
 Day 5: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/PasswordGenerator">Password Generator</a>
 
-Day 6: <a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json">Reeborg's World Maze Challenge<a> This was a challenge to complete and not a portfolio addition.
+Day 6: <a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json">Reeborg's World Maze Challenge</a> This was a challenge to complete and not a portfolio addition.
 
 Day 7: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Hangman">Hangman</a>
 
@@ -44,7 +44,7 @@ Day 20 and 21: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main
 
 Day 22: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Pong>Pong">Pong</a>
 
-Day 23: <a href=https://github.com/keithgaines/100DaysOfPython/tree/main/TurtleCrossing>Turtle Crossing capstone project<a>
+Day 23: <a href=https://github.com/keithgaines/100DaysOfPython/tree/main/TurtleCrossing>Turtle Crossing capstone project</a>
 
 Day 24: Mail Merge Project
 
@@ -76,10 +76,10 @@ Day 37: <a href='https://github.com/keithgaines/100DaysOfPython/tree/main/habitT
 
 Days 41 - 44 were a precursor to Web Scraping with Python so these were lessons in HTML/CSS in order to gain a better understanding of the web prior to interacting with the web via Python.
 
-Day 41: Introcuction to HTML
-Day 42: Advanced HTML
-Day 43: Introcution to CSS
-Day 44: Advanced CSS
+Day 41: Introcuction to HTML<br>
+Day 42: Advanced HTML<br>
+Day 43: Introcution to CSS<br>
+Day 44: Advanced CSS<br>
 
 <br>
 Days 80 - 100 are projects built without the assistance of the instructor's tutorials or solution videos. You're given a concept and you build it yourself from scratch. For simplicity sake, since source code can also be viewed via Replit in addition to being able to run the code from within the browser, I will be linking these from my replit account rather than having it linked to both my replit and github accounts. 
