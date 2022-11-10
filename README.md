@@ -68,6 +68,12 @@ Day 33: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/issOve
 
 Day 34: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/quizzler">GUI Quiz App</a>
 
+Day 35: Send SMS via API 
+
+Day 36: <a href='https://github.com/keithgaines/100DaysOfPython/tree/main/stockAlertProject'>Stock Alert Project</a>
+
+Day 37: <a href='https://github.com/keithgaines/100DaysOfPython/tree/main/habitTracker'>Habit Tracker</a>
+
 Days 41 - 44 were a precursor to Web Scraping with Python so these were lessons in HTML/CSS in order to gain a better understanding of the web prior to interacting with the web via Python.
 
 Day 41: Introcuction to HTML
