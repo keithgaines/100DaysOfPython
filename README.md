@@ -110,5 +110,5 @@ Day 53: Data Entry Job Automation
 
 Day 54: Intro to Flask
 
-Day 55: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/higherLowerWeb">Higgher Lower Web Edition</a>
+Day 55: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/higherLowerWeb">Higher Lower Web Edition</a>
 
