@@ -1,5 +1,8 @@
 # 100DaysOfPython
 
+Day 1 - 79 
+Course Projects
+
 This repo serves as a way for me to showcase the skills I've learned through projects that I've worked on while completing 100 Days of Code: The Complete Python Pro Bootcamp for 2022. This repo will continue to be updated as I further progress within the course.
 
 Day 1: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/BandNameGenerator">Band Name Generator</a>
@@ -74,6 +77,10 @@ Day 36: <a href='https://github.com/keithgaines/100DaysOfPython/tree/main/stockA
 
 Day 37: <a href='https://github.com/keithgaines/100DaysOfPython/tree/main/habitTracker'>Habit Tracker</a>
 
+Day 38: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/workoutTracker">Workout Tracker</a>
+
+Day 39 - 40: Flight Deal Finder
+
 Days 41 - 44 were a precursor to Web Scraping with Python so these were lessons in HTML/CSS in order to gain a better understanding of the web prior to interacting with the web via Python.
 
 Day 41: Introcuction to HTML<br>
@@ -82,11 +89,26 @@ Day 43: Introcution to CSS<br>
 Day 44: Advanced CSS<br>
 
 <br>
-Days 80 - 100 are projects built without the assistance of the instructor's tutorials or solution videos. You're given a concept and you build it yourself from scratch. For simplicity sake, since source code can also be viewed via Replit in addition to being able to run the code from within the browser, I will be linking these from my replit account rather than having it linked to both my replit and github accounts. 
-<br>
-<br>
-Day 81: <a href="https://replit.com/@keithgaines/morseCodeConverter#main.py">Morse Code Converter</a>
-  
-Day 82: <a href="https://keithgaines.github.io/">My Portfolio Site</a>. This link will take you to my portfolio site hosted on Github Pages.
-Day 83: <a href="https://github.com/keithgaines/tictactoe">Tic Tac Toe</a>
-Day 84: <a href="https://github.com/keithgaines/imageWatermarker">Image Watermarker</a>
+
+Day 45: <a href="https://github.com/keithgaines/100DaysOfPython/blob/main/moveiesRanked/main.py">Movies ranked</a> using Beautiful Soup to scrape webpage data
+
+Day 46: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/musicalTimeMachine">Spotify Playlist Creator</a>
+
+Day 47: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/priceChecker">Price checker</a> using Selenium to scrape data
+
+Day 48: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/gamePlayingBot">Game playing clicker bot</a>
+
+Day 49: Automating LinkedIn job applications
+
+Day 50: Tinder Auto-swiper
+
+Day 51: Internet Speed Complaint Bot
+
+Day 52: Instagram Follower Bot
+
+Day 53: Data Entry Job Automation
+
+Day 54: Intro to Flask
+
+Day 55: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/higherLowerWeb">Higgher Lower Web Edition</a>
+
