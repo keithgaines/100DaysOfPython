@@ -2,8 +2,6 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-
-
 chrome_driver_path = "C:\Development\chromedriver.exe"
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 
@@ -20,7 +18,7 @@ while True:
     cookie.click()
 
     if time.time() > timeout:
-        all_prices = driver.find_element(By.CSS_SELECTOR, '#store b')
+        all_prices = driver.find_elements(By.CSS_SELECTOR, '#store b')
         item_prices = []
 
         for price in all_prices:
