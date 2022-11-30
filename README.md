@@ -3,7 +3,7 @@
 Day 1 - 79 
 Course Projects
 
-This repo serves as a way for me to showcase the skills I've learned through projects that I've worked on while completing 100 Days of Code: The Complete Python Pro Bootcamp for 2022. This repo will continue to be updated as I further progress within the course.
+This repo serves as a way for me to display skills I've learned through projects that I've worked on while completing 100 Days of Code: The Complete Python Pro Bootcamp for 2022. This repo will continue to be updated as I further progress within the course.
 
 Day 1: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/BandNameGenerator">Band Name Generator</a>
 
