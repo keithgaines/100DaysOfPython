@@ -5,32 +5,26 @@ Course Projects
 
 This repo serves as a way for me to display skills I've learned through projects that I've worked on while completing 100 Days of Code: The Complete Python Pro Bootcamp for 2022. This repo will continue to be updated as I further progress within the course.
 
+Beginner:
 Day 1: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/BandNameGenerator">Band Name Generator</a>
-
 Day 2: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/TipCalculator">Tip Calculator</a>
-
 Day 3: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/TreasureIsland">Treasure Island</a>
-
 Day 4: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/RockPaperScissors">Rock Paper Scissors</a>
-
 Day 5: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/PasswordGenerator">Password Generator</a>
-
-Day 6: <a href="https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json">Reeborg's World Maze Challenge</a> This was a challenge to complete and not a portfolio addition.
-
+Day 6: Reeborg's World Maze Challenge
 Day 7: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Hangman">Hangman</a>
-
+<br>
+<br>
 Day 8: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/CaesarCipher">Caesar Cipher</a>
-
 Day 9: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/SilentAuction">Silent Auction</a>
-
 Day 10: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Calculator">Calculator</a>
-
 Day 11: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Blackjack">Blackjack</a>
-
 Day 12: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/NumberGuessingGame">Number Guessing Game</a>
-
 Day 13: Debugging challenges
 
+
+
+Intermediate: 
 Day 14: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/HigherLower">Higher Lower game</a>
 
 Day 15: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/CoffeeMaker">Coffee Machine</a>
@@ -65,6 +59,9 @@ Day 30: Added exception handling to <a href="https://github.com/keithgaines/100D
 
 Day 31: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/flashCardProject">Flash Card app</a>
 
+
+
+Intermediate+ :
 Day 32: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/birthdayWisher">Auto Birthday Wisher</a>
 
 Day 33: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/issOverheadNotifier">ISS Overhead Notifier</a>
@@ -81,14 +78,15 @@ Day 38: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/workou
 
 Day 39 - 40: Flight Deal Finder
 
-Days 41 - 44 were a precursor to Web Scraping with Python so these were lessons in HTML/CSS in order to gain a better understanding of the web prior to interacting with the web via Python.
 
+Web Foundation: 
 Day 41: Introcuction to HTML<br>
 Day 42: Advanced HTML<br>
 Day 43: Introcution to CSS<br>
 Day 44: Advanced CSS<br>
 
-<br>
+
+
 
 Day 45: <a href="https://github.com/keithgaines/100DaysOfPython/blob/main/moveiesRanked/main.py">Movies ranked</a> using Beautiful Soup to scrape webpage data
 
