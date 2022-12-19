@@ -21,23 +21,23 @@ This repo contains projects completed and a summary of skills obtained while com
 - Day 14: Higher Lower Game Project
 
 ## Intermediate
-- [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
-- [Day 16](day16): Object Oriented Programming (OOP)
-- [Day 17](day17): The Quiz Project & the Benefits of OOP
-- [Day 18](day18): Turtle Graphics and GUIs
-- [Day 19](day19): Instances, State and Higher Order Functions
-- [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
-- [Day 22](day22): Build Pong: The Famous Arcade Game
-- [Day 23](day23): The Turtle Crossing Capstone Project
-- [Day 24](day24): Files, Directories and Paths
-- [Day 25](day25): Working with CSV Data and the Pandas Library
-- [Day 26](day26): List Comprehension & the NATO Pilot's Alphabet
-- [Day 27](day27): Tkinter, *args, **kwargs and Creating GUI Programs
-- [Day 28](day28): Tkinter, Dynamic Typing and the Pomodoro GUI Application
-- [Day 29](day29): Building a Password Manager GUI App with Tkinter
-- [Day 30](day30): Errors, Exceptions and JSON Data: Improving the Password Manager
-- [Day 31](day31): Capstone Project - Flash Card App
+- Day 15: Local Development Environment Setup & the Coffee Machine Project
+- Day 16: Object Oriented Programming (OOP)
+- Day 17: The Quiz Project & the Benefits of OOP
+- Day 18: Turtle Graphics and GUIs
+- Day 19: Instances, State and Higher Order Functions
+- Day 20: Build the Snake Game Part 1: Animation & Coordinates
+- Day 21: Build the Snake Game Part 2: Inheritance & List Slicing
+- Day 22: Build Pong: The Famous Arcade Game
+- Day 23: The Turtle Crossing Capstone Project
+- Day 24: Files, Directories and Paths
+- Day 25: Working with CSV Data and the Pandas Library
+- Day 26: List Comprehension & the NATO Pilot's Alphabet
+- Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
+- Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- Day 29: Building a Password Manager GUI App with Tkinter
+- Day 30: Errors, Exceptions and JSON Data: Improving the Password Manager
+- Day 31: Capstone Project - Flash Card App
 
 ## Intermediate+
 - [Day 32](day32): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
