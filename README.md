@@ -7,11 +7,17 @@ This repo serves as a way for me to display skills I've learned through projects
 
 Beginner:
 Day 1: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/BandNameGenerator">Band Name Generator</a>
+
 Day 2: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/TipCalculator">Tip Calculator</a>
+
 Day 3: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/TreasureIsland">Treasure Island</a>
+
 Day 4: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/RockPaperScissors">Rock Paper Scissors</a>
+
 Day 5: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/PasswordGenerator">Password Generator</a>
+
 Day 6: Reeborg's World Maze Challenge
+
 Day 7: <a href="https://github.com/keithgaines/100DaysOfPython/tree/main/Hangman">Hangman</a>
 <br>
 <br>
