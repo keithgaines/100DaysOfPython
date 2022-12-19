@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    100 Days of Code: Python
+    <h1>100 Days of Code: Python</h1>
 </div>
 This repo contains projects completed and a summary of skills obtained while completing The App Brewery's 100 Days of Code bootcamp.
 
