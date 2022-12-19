@@ -89,8 +89,8 @@ This repo contains projects completed and a summary of skills obtained while com
 
 ## Professional
 - [Day 81](day81): Portfolio Project - Text to Morse Code Converter
-- [Day 82](day82): Portfolio Project - A website to show off your skills and the things I built
-- [Day 83](day83): Portfolio Project - Built a text-based version of the Tic Tac Toe game
+- [Day 82](day82): Portfolio Project - <a href="https://keithgaines.github.io">My Portfolio Website</a>
+- [Day 83](day83): Portfolio Project - A text-based version of the Tic Tac Toe game
 - [Day 84](day84): Portfolio Project - A program where you can upload images and add a watermark
 - [Day 85](day85): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
 
