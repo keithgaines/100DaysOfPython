@@ -69,30 +69,37 @@ This repo contains projects completed and a summary of skills obtained while com
 - Day 58: Bootstrap
 
 ## Advanced
-- [Day 59](day59): Upgraded Blog with Bootstrap
-- [Day 60](day60): HTML Forms with Flask
-- [Day 61](day61): Building Advanced Forms with WTForms
-- [Day 62](day62): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
-- [Day 63](day63): Databases and with SQLite and SQLAlchemy
-- [Day 64](day64): My Top 10 Movies Website
-- [Day 65](day65): Web Design School - How to Create a Website that People will Love
-- [Day 66](day66): Building Your Own API with RESTful Routing
-- [Day 67](day67): Blog Capstone Project Part 3 - RESTful Routing
-- [Day 68](day68): Authentication with Flask
-- [Day 69](day69): Blog Capstone Project Part 4 - Adding Users
-- [Day 70](day70): Deploying Your Web Application with Heroku
-- [Day 71](day71): Data Exploration with Pandas: College Major
-- [Day 72](day72): Data Visualisation with Matplotlib: Programming Languages
-- [Day 73](day73): Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
-- [Day 74](day74): Google Trends Data: Resampling and Visualising Time Series
+- Day 59: Upgraded Blog with Bootstrap
+- Day 60: HTML Forms with Flask
+- Day 61: Building Advanced Forms with WTForms
+- Day 62: Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+- Day 63: Databases and with SQLite and SQLAlchemy
+- Day 64: My Top 10 Movies Website
+- Day 65: Web Design School - How to Create a Website that People will Love
+- Day 66: Building Your Own API with RESTful Routing
+- Day 67: Blog Capstone Project Part 3 - RESTful Routing
+- Day 68: Authentication with Flask
+- Day 69: Blog Capstone Project Part 4 - Adding Users
+- Day 70: Deploying Your Web Application with Heroku
+- Day 71: Data Exploration with Pandas: College Major
+- Day 72: Data Visualisation with Matplotlib: Programming Languages
+- Day 73: Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+- Day 74: Google Trends Data: Resampling and Visualising Time Series
+- Day 75: Beautiful Plotly Charts & Analysing the Android App Store
+- Day 76: Computation with NumPy and N-Dimensional Arrays
+- Day 77: Linear Regression and Data Visualisation with Seaborn
+- Day 78: Analysing the Nobel Prize with Plotly, Matplotlib, & Seaborn
+- Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
+- Day 80: Predict House Prices
 
 
 ## Professional
-- [Day 81](day81): Portfolio Project - Text to Morse Code Converter
-- [Day 82](day82): Portfolio Project - <a href="https://keithgaines.github.io">My Portfolio Website</a>
-- [Day 83](day83): Portfolio Project - A text-based version of the Tic Tac Toe game
-- [Day 84](day84): Portfolio Project - A program where you can upload images and add a watermark
-- [Day 85](day85): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
+- Day 81: Portfolio Project - Text to Morse Code Converter
+- Day 82: Portfolio Project - <a href="https://keithgaines.github.io">My Portfolio Website</a>
+- Day 83: Portfolio Project - A text-based version of the Tic Tac Toe game
+- Day 84: Portfolio Project - A program where you can upload images and add a watermark
+- Day 85: Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
+- Day 86: Portfolio Project - Brick Breaker
 
 ## Tools and technologies
 
